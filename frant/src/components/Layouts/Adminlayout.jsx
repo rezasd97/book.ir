@@ -19,7 +19,7 @@ const Adminlayout = ({ children }) => {
             >
                 <div className="navbar-header">
                     <Link className="navbar-brand" to="/paneladmin">
-                        داشبورد تاپلرن
+                        پنل ادمین 
                     </Link>
                 </div>
 
